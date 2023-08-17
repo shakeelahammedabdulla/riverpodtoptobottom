@@ -9,7 +9,6 @@ This is a Flutter project that demonstrates the usage of the `hooks_riverpod` pa
 - [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
@@ -43,11 +42,3 @@ The project consists of the following files:
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify and expand upon this `README.md` template as needed for your project's specific requirements.
